@@ -50,6 +50,6 @@ Then go to `http://localhost:8000/books` from your browser and see the app.
 
 ## Credits
 
-- [Tanbir](https://github.com/carlosrodr1)
+- [Carlos](https://github.com/carlosrodr1)
 
 
